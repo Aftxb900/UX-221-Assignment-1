@@ -7,11 +7,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/fun-runs/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/chilis/
         </loc>
     </url>
@@ -37,17 +32,7 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/assignment-1/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/tag/example-for-assignment/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/tag/example-2-for-assignment-1/
+            http://localhost:8000/category/formula-1/
         </loc>
     </url>
     <url>
