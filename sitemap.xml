@@ -22,6 +22,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/badminton-event-engagement/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/yonex-badminton-apparel/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -43,6 +53,11 @@
     <url>
         <loc>
             http://localhost:8000/category/formula-1/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/badminton/
         </loc>
     </url>
     <url>
